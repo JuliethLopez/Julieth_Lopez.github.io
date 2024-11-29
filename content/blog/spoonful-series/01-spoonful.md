@@ -1,11 +1,10 @@
 ---
-date: "2021-01-01"
+date: "2024-11-29"
+author: "juli"
 draft: false
-excerpt: Grid is the very first CSS module created specifically to solve the layout
-  problems we’ve all been hacking our way around for as long as we’ve been making
-  websites.
-subtitle: ""
-title: A first post
+excerpt: Primer ajuste sobre el blog hecho por mi :)
+subtitle: "Subtitulo inventado"
+title: Primer ajuste, servira?
 weight: 1
 ---
 

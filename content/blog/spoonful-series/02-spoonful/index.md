@@ -1,12 +1,19 @@
 ---
 date: "2021-01-02"
 draft: false
-excerpt: Grid is the very first CSS module created specifically to solve the layout
-  problems we’ve all been hacking our way around for as long as we’ve been making
-  websites.
+excerpt: Segunda modificación, intentemos poner un evento.
 subtitle: ""
-title: A second post
+title: Segunda modificación!!
 weight: 2
+links:
+- icon: door-open
+  icon_pack: fas
+  name: website
+  url: https://r-ladies-morelia.github.io/
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/R-Ladies-Morelia/R-Ladies-Morelia.github.io
 ---
 
 {{< here >}}
@@ -23,3 +30,7 @@ weight: 2
 ## more
 
 ## get ready!
+
+```r
+library(ggplot2)
+```
